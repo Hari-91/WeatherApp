@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Workspace\\WeatherApp\\WeatherApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9BFF38B1-DF50-4EAA-B5E7-0E249241FE21}|WeatherApp.csproj|c:\\workspace\\weatherapp\\weatherapp\\weatherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BFF38B1-DF50-4EAA-B5E7-0E249241FE21}|WeatherApp.csproj|solutionrelative:weatherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BFF38B1-DF50-4EAA-B5E7-0E249241FE21}|WeatherApp.csproj|c:\\workspace\\weatherapp\\weatherapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BFF38B1-DF50-4EAA-B5E7-0E249241FE21}|WeatherApp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Workspace\\WeatherApp\\WeatherApp\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Workspace\\WeatherApp\\WeatherApp\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T02:16:11.83Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WeatherService.cs",
+              "DocumentMoniker": "C:\\Workspace\\WeatherApp\\WeatherApp\\WeatherService.cs",
+              "RelativeDocumentMoniker": "WeatherService.cs",
+              "ToolTip": "C:\\Workspace\\WeatherApp\\WeatherApp\\WeatherService.cs",
+              "RelativeToolTip": "WeatherService.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAgwA4AAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T02:04:05.331Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
